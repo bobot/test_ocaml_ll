@@ -1,0 +1,2 @@
+archive(native) = "libB.cmxa"
+requires = "libA"
